@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "f6fdcb72-4a02-2078-bdbe-6a1e8d0b5cb9",
+  "instructors": {
+    "content": [
+      "69e02dfa-3bda-75c6-4e19-324ed077d48b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "acec931a-0292-b71e-20f0-ba24f98598f0",
+    "website": "21g-322j-frenchness-in-an-era-of-globalization-fall-2016"
+  },
+  "course_title": "Frenchness in an Era of Globalization",
+  "course_description": "This course approaches the question of what constitutes Frenchness in today's era of globalization through issues of memory, belonging, and cultural production. It explores the role of timeless traditions \u2013 common technologies, an internationally-spoken language, monuments open to the world, and foods such as wine and cheese \u2013 that remain quintessentially French. The course also covers recent scandals about France's role in the world, such as its colonial identity and Dominique Strauss-Kahn's New York debacle.\n\nTaught in French.\n",
+  "department_numbers": [
+    "21G",
+    "21H"
+  ],
+  "extra_course_numbers": "21H.242J",
+  "primary_course_number": "21G.322J",
+  "course_image_thumbnail": {
+    "content": "38efb307-b1b5-3599-74ec-87cb2f69770c",
+    "website": "21g-322j-frenchness-in-an-era-of-globalization-fall-2016"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "692b179a-08d4-4f64-a3a9-cb93d866a9b6",
+  "site_short_id": "21g.322j-fall-2016",
+  "title": "Course Metadata"
+}
